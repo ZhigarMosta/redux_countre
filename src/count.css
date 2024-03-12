@@ -1,0 +1,17 @@
+.btn {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+}
+button {
+  background-color: #a71717;
+  width: 50px;
+  color: #fff;
+  font-size: 15px;
+  cursor: pointer;
+}
+p{
+	font-size: 45px;
+	display: flex;
+	justify-content: center;
+}
